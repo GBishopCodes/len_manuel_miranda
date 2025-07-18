@@ -1,3 +1,5 @@
+## Script Source: https://www.allmusicals.com/lyrics/hamilton/script.htm
+
 block_text = """
 Hamilton script
 (Full Libretto) / Script)
